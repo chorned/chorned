@@ -46,7 +46,7 @@ A project to visualize and explain the inner workings of Large Language Models.
 
 [![anthropology Preview Image](https://github.com/chorned/llm-demystifier/raw/main/.github/preview_LLM.png)](https://github.com/chorned/llm-demystifier)
 
-#### 4. Subreddit Anthropology ( 🌎 Live project: [llm.horned.se](https://llm.horned.se/))
+#### 4. Subreddit Anthropology ( 🌎 Live project: [anthropology.horned.se](https://anthropology.horned.se/))
 
 A Large Language model analyzing human behavior, one subreddit at a time.
 
