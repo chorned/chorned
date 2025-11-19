@@ -28,15 +28,25 @@ My specialty is bridging the gap between deep technical implementation and strat
 
 Here are a couple of recent projects I've been "vibe coding" on.
 
-#### 1. Gemini RPG: An Exercise in Agentic Orchestration
+#### 1. Vibe Code Backpacker: A remake of a classic game
+Can you make it around the world? Travel around the world, and take on jobs to afford to keep travelling!
+
+[![Backpacker Preview Image](https://github.com/chorned/Vibe-Code-Backpacker/raw/main/.github/previewBackpacker.png)](https://github.com/chorned/Vibe-Code-Backpacker)
+
+#### 2. Gemini RPG: An Exercise in Agentic Orchestration
 An exploration of multi-agent LLM orchestration to create a dynamic, text-based RPG.
 
 [![Gemini RPG Preview Image](https://github.com/chorned/Gemini-RPG-An-Exercise-in-Agentic-Orchestration/raw/main/.github/preview.png)](https://github.com/chorned/Gemini-RPG-An-Exercise-in-Agentic-Orchestration)
 
-#### 2. LLM Demystifier
+#### 3. LLM Demystifier
 A project to visualize and explain the inner workings of Large Language Models.
 
-[![LLM Demystifier Preview Image](https://github.com/chorned/llm-demystifier/raw/main/.github/preview_LLM.png)](https://github.com/chorned/llm-demystifier)
+[![anthropology Preview Image](https://github.com/chorned/llm-demystifier/raw/main/.github/preview_LLM.png)](https://github.com/chorned/llm-demystifier)
+
+#### 4. Subreddit Anthropology
+A Large Language model analyzing human behavior, one subreddit at a time.
+
+[![Anthropology Preview Image](https://github.com/chorned/subreddit-anthropology/raw/main/.github/previewAnthro.png)](https://github.com/chorned/subreddit-anthropology)
 
 ---
 
