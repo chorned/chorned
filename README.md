@@ -28,25 +28,25 @@ My specialty is bridging the gap between deep technical implementation and strat
 
 Here are a couple of recent projects I've been "vibe coding" on.
 
-#### 1. Vibe Code Backpacker: A remake of a classic game ( 🌎 Live project: DM for Link)
+#### 1. Vibe Code Backpacker: A remake of a classic game ( 🌎 [live link](https://backpacker.horned.se))
 
 Can you make it around the world? Travel around the world, and take on jobs to afford to keep travelling!
 
-[![Backpacker Preview Image](https://github.com/chorned/Vibe-Code-Backpacker/raw/main/.github/previewBackpacker.png)](https://github.com/chorned/Vibe-Code-Backpacker)
+[![Backpacker Preview Image](https://github.com/chorned/Vibe-Code-Backpacker/raw/main/.github/previewBackpacker1.png)](https://github.com/chorned/Vibe-Code-Backpacker)
 
-#### 2. Gemini RPG: An Exercise in Agentic Orchestration ( 🌎 Live project: [DM for Password](https://rpg.horned.se/))
+#### 2. Gemini RPG: An Exercise in Agentic Orchestration ( 🌎 [live link](https://rpg.horned.se))
 
 An exploration of multi-agent LLM orchestration to create a dynamic, text-based RPG.
 
 [![Gemini RPG Preview Image](https://github.com/chorned/Gemini-RPG-An-Exercise-in-Agentic-Orchestration/raw/main/.github/preview.png)](https://github.com/chorned/Gemini-RPG-An-Exercise-in-Agentic-Orchestration)
 
-#### 3. LLM Demystifier ( 🌎 Live project: [DM for Password](https://llm.horned.se/))
+#### 3. LLM Demystifier ( 🌎 [live link](https://llm.horned.se))
 
 A project to visualize and explain the inner workings of Large Language Models.
 
 [![anthropology Preview Image](https://github.com/chorned/llm-demystifier/raw/main/.github/preview_LLM.png)](https://github.com/chorned/llm-demystifier)
 
-#### 4. Subreddit Anthropology ( 🌎 Live project: [anthropology.horned.se](https://anthropology.horned.se/))
+#### 4. Subreddit Anthropology ( 🌎 [live link](https://anthropology.horned.se))
 
 A Large Language model analyzing human behavior, one subreddit at a time.
 
